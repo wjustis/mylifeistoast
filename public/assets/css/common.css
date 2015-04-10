@@ -1,0 +1,17 @@
+/******************************************************************************
+* will@jawdev.com
+* mylifeistoast
+* github.com/wjustis/mylifeistoast
+* /public/assets/css/common.css
+******************************************************************************/
+
+.L { text-align: left; }
+.C { text-align: center; }
+.R { text-align: right; }
+
+.FL { float: left; }
+.FR { float: right; }
+
+a, button {
+	outline: 0;
+}
